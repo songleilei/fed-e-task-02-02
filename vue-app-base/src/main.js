@@ -1,10 +1,12 @@
-import Vue from 'vue'
-import App from './App.vue'
+import Vue from "vue";
+import App from "./App.vue";
 
-import './style.less'
+import "./style.less";
 
-Vue.config.productionTip = false
+Vue.config.productionTip = false;
+
+const a = "";
 
 new Vue({
-  render: h => h(App),
-}).$mount('#app')
+  render: (h) => h(App),
+}).$mount("#app");
