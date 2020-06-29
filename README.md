@@ -93,6 +93,7 @@ class MyPlugin {
 
 1. 使用 webpack 实现 Vue 项目打包任务
 
-   具体任务及说明：https://github.com/lagoufed/fed-e-001/raw/master/tasks/02-02-base-code.zip
+   作业位置：
 
-   直接使用 webpack 以及周边工具、Loader、Plugin 还原这个项目的打包任务
+   - vue-app-base 文件夹
+   - 视频：作业演示.mp4

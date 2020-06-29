@@ -5,8 +5,6 @@ import "./style.less";
 
 Vue.config.productionTip = false;
 
-const a = "";
-
 new Vue({
   render: (h) => h(App),
 }).$mount("#app");
